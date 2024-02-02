@@ -4,9 +4,9 @@ Array / String
 
 - [x] Merge Strings Alternately
 
-- [ ] Greatest Common Divisor of Strings
+- [x] Greatest Common Divisor of Strings
 
-- [ ] Kids With the Greatest Number of Candies
+- [x] Kids With the Greatest Number of Candies
 
 - [ ] Can Place Flowers
 

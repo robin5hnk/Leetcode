@@ -2,7 +2,7 @@
 
 Array / String
 
-[] Merge Strings Alternately
+[x] Merge Strings Alternately
 
 [] Greatest Common Divisor of Strings
 

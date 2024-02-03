@@ -8,7 +8,7 @@ Array / String
 
 - [x] Kids With the Greatest Number of Candies
 
-- [ ] Can Place Flowers
+- [x] Can Place Flowers
 
 - [ ] Reverse Vowels of a String
 

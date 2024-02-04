@@ -10,7 +10,7 @@ Array / String
 
 - [x] Can Place Flowers
 
-- [ ] Reverse Vowels of a String
+- [x] Reverse Vowels of a String
 
 - [ ] Reverse Words in a String
 

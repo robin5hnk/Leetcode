@@ -58,7 +58,7 @@ Hash Map / Set
 
 Stack
 
-- [ ] Removing Stars From a String
+- [x] Removing Stars From a String
 
 - [ ] Asteroid Collision
 

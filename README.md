@@ -14,7 +14,7 @@ Array / String
 
 - [x] Reverse Words in a String
 
-- [ ] Product of Array Except Self
+- [x] Product of Array Except Self
 
 - [ ] Increasing Triplet Subsequence
 

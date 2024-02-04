@@ -12,7 +12,7 @@ Array / String
 
 - [x] Reverse Vowels of a String
 
-- [ ] Reverse Words in a String
+- [x] Reverse Words in a String
 
 - [ ] Product of Array Except Self
 

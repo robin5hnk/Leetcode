@@ -22,7 +22,7 @@ Array / String
 
 Two Pointers
 
-- [ ] Move Zeroes
+- [x] Move Zeroes
 
 - [ ] Is Subsequence
 

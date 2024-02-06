@@ -24,7 +24,7 @@ Two Pointers
 
 - [x] Move Zeroes
 
-- [ ] Is Subsequence
+- [x] Is Subsequence
 
 - [ ] Container With Most Water
 

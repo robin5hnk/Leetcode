@@ -42,7 +42,7 @@ Sliding Window
 
 Prefix Sum
 
-- [ ] Find the Highest Altitude
+- [x] Find the Highest Altitude
 
 - [ ] Find Pivot Index
 
